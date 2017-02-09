@@ -1,0 +1,12 @@
+{
+  "debug": true,
+  "hostname": "",
+  "ip": "",
+  "masscan_home":"/usr/bin/masscan",
+  "default_output_fileName":"tmp.json",
+  "http": {
+    "enabled": true,
+    "listen": ":20000",
+    "backdoor": false
+  }
+}
