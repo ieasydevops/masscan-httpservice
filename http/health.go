@@ -1,7 +1,7 @@
 package http
 
 import (
-	"learn/jaguar-scanner-server/g"
+	"github.com/meixinyun/masscan-httpservice/g"
 	"net/http"
 )
 
