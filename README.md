@@ -1,6 +1,6 @@
 masscan wrapper as a http service
 
- # set $GOPATH and $GOROOT
+ # set $GOPATH  $GOROOT   and $MASSACN_PATH
     
     
  mkdir -p $GOPATH/src/github.com/meixinyun/masscan-httpservice
